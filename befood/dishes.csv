@@ -1,0 +1,586 @@
+restaurant_id,dish_name,price
+1,2,MUA 1 TẶNG 1 CƠM 9K,15,Cơm cháy chà bông 500g,120000,120000,1,0,0,0,"Cơm nấu từ gạo mới, để cháy đáy nồi, sau đó sấy khô - Chà bông heo loại hảo hạng nhứt - Nước mắm, mỡ hành được gia giảm cho hợp khẩu vị"
+1,2,MUA 1 TẶNG 1 CƠM 9K,16,Cơm cháy chà bông 250g,60000,60000,1,1,0,0,"Cơm nấu từ gạo mới, để cháy đáy nồi, sau đó sấy khô - Chà bông heo loại hảo hạng nhứt - Nước mắm, mỡ hành được gia giảm cho hợp khẩu vị"
+1,2,MUA 1 TẶNG 1 CƠM 9K,17,Cơm cháy mắm hành 500g,105000,105000,1,1,0,0,"Nước mắm đặc quẹo nguyên chất, gia giảm vị mặn bằng cái ngọt dịu của đường, thêm chút hành tỏi thơm nồng, quyét lên miếng cơm giòn rụm phủ đầy chà bông."
+2,92430,Món Đang Giảm,708224,Trà Sữa Phô Mai Tươi,29000,29000,1,0,0,0,"Trà sữa vị truyền thống kết hợp 6 viên phô mai tươi ngon, béo ngậy. Team ghiền phô mai không thể bỏ qua em này đâu nè ♥"
+2,92430,Món Đang Giảm,708225,Trà Sữa Bánh Flan,29000,29000,1,0,0,0,"Vị trà sữa truyền thống kết hợp bánh flan trứng siêu ngon, béo ngậy"
+2,92431,Milo dầm,708226,Milo Dầm Pudding,29000,29000,1,0,0,0,
+2,92431,Milo dầm,708227,Milo Dầm Thập Cẩm,32000,32000,1,0,0,0,
+2,92431,Milo dầm,708228,Milo dầm phô mai tươi,30000,30000,1,0,0,0,
+2,92431,Milo dầm,708229,Milo Dầm Bánh Flan,29000,29000,1,0,0,0,
+2,92431,Milo dầm,708230,Milo Dầm Trân Châu,28000,28000,1,0,0,0,
+2,92431,Milo dầm,708231,Milo Dầm Kem Trứng - Size M,31000,31000,1,0,0,0,"Milo dầm kết hợp với kem trứng đặc biệt siêu ngon, độ béo vừa phải. Sẽ không làm bạn thất vọng đâu nè ♥ món này không để đá riêng đc nhé khách ơi ♥"
+2,92431,Milo dầm,708232,Milo Dầm Machiato,29000,29000,1,0,0,0,Đặt món sau 8h00
+2,92432,Chè Khúc Bạch,708233,Chè Khúc Bạch Thập Cẩm,36000,36000,1,0,0,0,"Là sự kết hợp của 4 vị khúc bạch và đủ loại trái cây tươi, hòa quyện với nước chè ngọt dịu, thanh mát.Đây sẽ là sự lựa chọn sáng suốt của bạn luôn nè.Thử ngay bạn nhé!"
+2,92432,Chè Khúc Bạch,708234,Chè Khúc Bạch Vải,34000,34000,1,0,0,0,"Món này có đủ 4 vị khúc bạch, ăn kèm với trái cây là quả vải bạn nhen ♥"
+2,92432,Chè Khúc Bạch,708235,Chè Khúc Bạch Đào,34000,34000,1,0,0,0,"Món này đi đủ 4 vị khúc bạch, ăn kèm với trái cây là miếng đào. Vị chua của miếng đào kèm vị béo của khúc bạch rất là ngon luôn nè ♥ thử liền bạn nha ♥"
+2,92432,Chè Khúc Bạch,708236,Khúc Bạch Trắng Phô Mai,34000,34000,1,0,0,0,Vị khúc bạch trắng phô mai truyền thống. Bạn hãy kết hợp thêm 1 loại trái cây. Ngon hơn khi chọn trái cây thập cẩm bạn nhé ♥
+2,92432,Chè Khúc Bạch,708237,Khúc Bạch Sữa Dừa,34000,34000,1,0,0,0,Khúc bạch vị dừa thơm ngon hòa quyện với vị béo của sữa. Bạn hãy kết hợp thêm 1 loại trái cây. Ngon hơn khi chọn trái cây thập cẩm bạn nhé ♥
+2,92432,Chè Khúc Bạch,708238,Khúc Bạch Socola,34000,34000,1,0,0,0,Vị khúc bạch socola thơm béo. Bạn hãy kết hợp thêm 1 loại trái cây. Ngon hơn khi chọn trái cây thập cẩm bạn nhé ♥
+2,92432,Chè Khúc Bạch,708239,Khúc Bạch Việt Quất,34000,34000,1,0,0,0,"Khúc bạch vị việt quất thơm dịu, ngọt béo. Bạn hãy kết hợp thêm 1 loại trái cây. Ngon hơn khi chọn trái cây thập cẩm bạn nhé ♥"
+2,92432,Chè Khúc Bạch,708240,Khúc Bạch Cà Phê,34000,34000,1,0,0,0,Khúc bạch vị cafe - 1 chút đắng kết hợp với vị béo của sữa sẽ làm bạn bớt ngán hơn nè. Bạn hãy kết hợp thêm 1 loại trái cây. Ngon hơn khi chọn trái cây thập cẩm bạn nhé ♥
+2,92433,Trà sữa,708241,Trà Sữa Truyền Thống,22000,22000,1,0,0,0,Chưa bao gồm thạch
+2,92433,Trà sữa,708242,Trà Sữa Olong Thượng Hạng,24000,24000,1,0,0,0,Trà sữa olong là món đc yêu thích rất nhiều nhà AZ đó ạ. Nếu gu của bạn là đậm trà thì k thể bỏ qua em này đâu nè. Món này chưa bao gồm topping khách nhé ♥
+2,92433,Trà sữa,708243,Trà Sữa Phô Mai Tươi,29000,29000,1,0,0,0,"Trà sữa vị truyền thống kết hợp 6 viên phô mai tươi ngon, béo ngậy. Team ghiền phô mai không thể bỏ qua em này đâu nè ♥"
+2,92433,Trà sữa,708244,Trà Sữa Thập Cẩm,35000,35000,1,0,0,0,"Bao gồm 5-7 loại topping, vị truyền thống. Nếu bạn muốn đổi vị, bạn note lại giúp quán nhé (matcha, kiều mạch, thái xanh, olong, socola)"
+2,92433,Trà sữa,708245,Trà Sữa Trân Châu Đen,29000,29000,1,0,0,0,Trà sữa vị truyền thống kết hợp hạt trân châu đen dai mềm. Rất ngon luôn nè ♥
+2,92433,Trà sữa,708246,Trà Sữa Thái Xanh,22000,22000,1,0,0,0,Rất là thơm mùi trà thái luôn. Bạn thử ngay nhé. Món này chưa bao gồm topping nha bạn ơi ♥
+2,92433,Trà sữa,708247,Trà Sữa Kiều Mạch,24000,24000,1,0,0,0,Món này chưa bao gồm thạch. Kiều mạch là trà sữa vị gạo rang. Rất thơm mùi gạo luôn ạ. Thử 1 lần sẽ ghiền đó nhen. Em này cực kù healthy luôn nè ♥
+2,92433,Trà sữa,708248,Trà Sữa Đặc Biệt (size L),45000,45000,1,0,0,0,"Chỉ có size L (ly 700ml)
+Có 8-10 loại topping. Siêu no luôn ạ ♥♥"
+2,92433,Trà sữa,708249,Trà Sữa Socola,24000,24000,1,0,0,0,"Chưa bao gồm thạch, vị socola ngọt thơm"
+2,92433,Trà sữa,708250,Trà Sữa Matcha,22000,22000,1,0,0,0,"Vị đắng nhẹ của matcha kết hợp mùi thơm của trà. Món này chưa bao gồm topping, bạn hãy chọn thêm đủ loại topping sẽ ngon hơn nè ♥"
+2,92433,Trà sữa,708251,Trà Sữa Olong Kem Trứng ,29000,29000,1,0,0,0,"Trà sữa vị olong thơm trà, đậm vị, kết hợp 1 chút béo béo, thơm ngon của kem trứng sẽ không làm bạn thất vọng đâu nè ♥ món này không để đá riêng đc nhé khách ơi ♥"
+2,92433,Trà sữa,708252,Trà Sữa Bánh Flan,29000,29000,1,0,0,0,"Vị trà sữa truyền thống kết hợp bánh flan trứng siêu ngon, béo ngậy"
+2,92433,Trà sữa,708253,Trà Sữa Phô Mai Choco ,30000,30000,1,0,0,0,"Trà sữa vị socola kết hợp với thạch phô mai tươi choco ngọt ngào, béo ngậy"
+2,92433,Trà sữa,708254,Trà Sữa Truyền Thống,20000,20000,1,0,0,0,Vị truyền thống đặc trưng của nhà AZ luôn nè ♥ thử liền bạn nha ♥
+2,92434,Trà thanh nhiệt,708255,Trà Dâu + Thạch,29000,29000,1,0,0,0,Trà dâu AZ siêu giải nhiệt luôn nè bạn ơi. Uống vào buổi chiều là hợp lý luôn ạ ♥♥
+2,92434,Trà thanh nhiệt,708256,Trà đào thạch đào,31000,31000,1,0,0,0,"Bao gồm đào dầm, miếng đào và nước trà đào"
+2,92434,Trà thanh nhiệt,708257,Hồng Trà Tắc Mật Ong,26000,26000,1,0,0,0,Món này chưa bao gồm thạch. Rất thơm hồng trà luôn ạ. Món này dùng để giải nhiệt là số 1 luôn bạn nha ♥
+2,92434,Trà thanh nhiệt,708258,Trà Vải Thạch Vải,31000,31000,1,0,0,0,"Trà vải đc pha chế từ trà lài thơm lắm luôn ạ. Kết hợp topping thạch vải, 2 quả vải. Bạn chọn món này sẽ k thất vọng đâu nè "
+2,92434,Trà thanh nhiệt,708259,Trà Lài Tắc Mật Ong,26000,26000,1,0,0,0,"1 chút vị chát nhẹ của trà lài, 1 chút mùi thơm của mật ong kết hợp với vị chua của tắc. Món này chưa bao gồm topping bạn nhé ♥"
+2,92434,Trà thanh nhiệt,708260,Trà Lài Nha Đam,28000,28000,1,0,0,0,Size M
+2,92434,Trà thanh nhiệt,708261,Trà Ổi Hồng + Thạch ,29000,29000,1,0,0,0,Size M
+2,92434,Trà thanh nhiệt,708262,Trà Kiwi + Thạch,29000,29000,1,0,0,0,Vị chua của Kiwi kết hợp với thạch nha đam. Rất là ngon và giải nhiệt luôn nè ♥
+2,92434,Trà thanh nhiệt,708263,Trà Lài Kem Trứng ,28000,28000,1,0,0,0,"Một chút trà lài đậm vị kết hợp với kem trứng đặc biệt siêu ngon, độ béo vừa phải. Sẽ không làm bạn thất vọng đâu nè ♥  món này không để đá riêng đc nhé khách ơi ♥"
+2,92434,Trà thanh nhiệt,708264,Hồng Trà Trân Châu Đen,28000,28000,1,0,0,0,
+2,92434,Trà thanh nhiệt,708265,Trà Táo Xanh + Thạch,29000,29000,1,0,0,0,"Vị Táo nhẹ nhàng, không quá ngọt gắt. Kết hợp 1 chút chua của tắc, hút cùng thạch nha đam. Siêu phẩm giải nhiệt luôn nè ♥"
+2,92435,Sữa tươi,708266,Sữa Tươi Trân Châu Đường Đen,30000,30000,1,0,0,0,
+2,92435,Sữa tươi,708267,Sữa Tươi Matcha Đường Đen,32000,32000,1,0,0,0,
+2,92435,Sữa tươi,708268,Sữa Tươi Cacao Đường Đen,32000,32000,1,0,0,0,
+2,92435,Sữa tươi,708269,Sữa Tươi Đường Đen Kem Trứng,38000,38000,1,0,0,0,
+2,92435,Sữa tươi,708270,Sữa Tươi Đường Đen Machiato,38000,38000,1,0,0,0,
+2,92436,Cafe,708271,Cà Phê Sữa Đá,20000,20000,1,0,0,0,Đặt món trước 21h45
+2,92436,Cafe,708272,Cà Phê Đá,17000,17000,1,0,0,0,Đặt món trước 21h45
+2,114290,Bánh Mì,863476,Bánh Mì Heo Quay,28000,28000,1,0,0,0,
+2,114290,Bánh Mì,863477,Bánh Mì Thập Cẩm,28000,28000,1,0,0,0,
+2,114290,Bánh Mì,863478,Bánh Mì Ốp La 2 Trứng,25000,25000,1,0,0,0,
+2,114290,Bánh Mì,863479,Bánh Mì Gà,28000,28000,1,0,0,0,
+2,114290,Bánh Mì,863480,Bánh Mì Xíu Mại,28000,28000,1,0,0,0,
+2,114290,Bánh Mì,863481,Bánh Mì Cá Hộp,28000,28000,1,0,0,0,
+2,114290,Bánh Mì,863482,Bánh Mì Chà Bông,28000,28000,1,0,0,0,
+2,114290,Bánh Mì,863483,Bánh Mì Dăm Bông,28000,28000,1,0,0,0,
+2,114290,Bánh Mì,863484,Bánh Mì Chả Lụa,28000,28000,1,0,0,0,
+2,114290,Bánh Mì,863485,Bánh Mì Xá Xíu,28000,28000,1,0,0,0,
+2,114290,Bánh Mì,863486,Bánh Mì Xúc Xích,25000,25000,1,0,0,0,
+2,114290,Bánh Mì,863487,Bánh Mì Giò Thủ,28000,28000,1,0,0,0,Giò thủ 
+2,114291,Xôi mặn,863488,Xôi Thập Cẩm,39000,39000,1,0,0,0,
+2,114291,Xôi mặn,863489,Xôi Xá Xíu,37000,37000,1,0,0,0,
+2,114291,Xôi mặn,863490,Xôi Gà Đùi Tỏi,39000,39000,1,0,0,0,
+2,114291,Xôi mặn,863491,Xôi Heo Quay,37000,37000,1,0,0,0,
+2,114291,Xôi mặn,863492,Xôi Trứng Ốp La,32000,32000,1,0,0,0,
+2,114292,Thức Uống,863493,Trà Lipton Tắc,20000,20000,1,0,0,0,
+2,114292,Thức Uống,863494,Cam Vắt Ly Lớn,25000,25000,1,0,0,0,
+2,114292,Thức Uống,863495,Cà Phê Sữa Đá,20000,20000,1,0,0,0,
+2,114292,Thức Uống,863496,Sting,20000,20000,1,0,0,0,
+2,114292,Thức Uống,863497,Sâm Rong Biển,15000,15000,1,0,0,0,"rong biển,la hán quả,bông cúc,đường phèn,vị ngọt nhẹ và thanh"
+2,114292,Thức Uống,863498,Nước Suối,10000,10000,1,0,0,0,
+2,114292,Thức Uống,863499,Bò Húc Thái,20000,20000,1,0,0,0,
+2,114292,Thức Uống,863500,Coca-cola,18000,18000,1,0,0,0,
+2,114292,Thức Uống,863501,Trà C2,18000,18000,1,0,0,0,
+2,114292,Thức Uống,863502,7 Up,18000,18000,1,0,0,0,
+2,114292,Thức Uống,863503,Cà Phê Đá,17000,17000,1,0,0,0,
+3,1,bỏ,1,Khô gà cơm cháy lá chanh mỏng giòn đặc biệt,55000,55000,1,0,0,0,
+3,1,bỏ,2,Khô gà lá chanh Củ Chi (loại khô giòn),99000,99000,1,0,0,0,
+3,1,bỏ,3,Khô gà lá chanh Củ Chi (loại khô dai),89000,89000,1,0,0,0,
+3,2,MUA 1 TẶNG 1 CƠM 9K,4,Cơm cháy gạo lứt chà bông Củ Chi,55000,55000,1,0,0,0,
+3,3,Mật ong,5,Mật ong nuôi hoa café 1lit,245000,245000,1,0,0,0,
+3,3,Mật ong,12,"Mật ong nuôi hoa café 0,5lit",135000,135000,1,0,0,0,
+3,4,Táo đỏ,6,Táo đỏ khô Hàn Quốc,176000,176000,1,0,0,1,
+3,4,Táo đỏ,13,"Táo đỏ khô Hàn Quốc 0,5kg",89000,89000,1,0,0,1,
+3,4,Táo đỏ,14,Táo đỏ khô Hàn Quốc 1kg,176000,176000,1,0,0,1,
+3,5,Yến sào,7,Yến sào Đaknong thô nguyên tổ ít lông 50g,1500000,1500000,1,0,0,0,
+3,5,Yến sào,8,Yến sào Đaknong tinh chế 1 tổ 10g,450000,450000,1,0,0,0,
+3,5,Yến sào,9,Yến sào Đaknong tinh chế 50g,2350000,2350000,1,0,0,0,
+3,5,Yến sào,10,Yến sào Đaknong tinh chế 100g,4450000,4450000,1,0,0,0,
+3,129432,Bánh Mì,969848,Bánh Mì Heo Quay,28000,28000,1,0,0,0,
+3,129432,Bánh Mì,969849,Bánh Mì Thập Cẩm,28000,28000,1,0,0,0,
+3,129432,Bánh Mì,969850,Bánh Mì Ốp La 2 Trứng,25000,25000,1,0,0,0,
+3,129432,Bánh Mì,969851,Bánh Mì Chả Cá,28000,28000,1,0,0,0,
+3,129432,Bánh Mì,969852,Bánh Mì Gà,28000,28000,1,0,0,0,
+3,129432,Bánh Mì,969853,Bánh Mì Xíu Mại,28000,28000,1,0,0,0,
+3,129432,Bánh Mì,969854,Bánh Mì Cá Hộp,28000,28000,1,0,0,0,
+3,129432,Bánh Mì,969855,Bánh Mì Chà Bông,28000,28000,1,0,0,0,
+3,129432,Bánh Mì,969856,Bánh Mì Dăm Bông,28000,28000,1,0,0,0,
+3,129432,Bánh Mì,969857,Bánh Mì Chả Lụa,28000,28000,1,0,0,0,
+3,129432,Bánh Mì,969858,Bánh Mì Xá Xíu,28000,28000,1,0,0,0,
+3,129432,Bánh Mì,969859,Bánh Mì Xúc Xích,25000,25000,1,0,0,0,
+3,129432,Bánh Mì,969860,Bánh Mì Giò Thủ,28000,28000,1,0,0,0,Giò thủ 
+3,129433,Xôi mặn,969861,Xôi Thập Cẩm,39000,39000,1,0,0,0,
+3,129433,Xôi mặn,969862,Xôi Xá Xíu,37000,37000,1,0,0,0,
+3,129433,Xôi mặn,969863,Xôi Gà Đùi Tỏi,39000,39000,1,0,0,0,
+3,129433,Xôi mặn,969864,Xôi Heo Quay,37000,37000,1,0,0,0,
+3,129433,Xôi mặn,969865,Xôi Trứng Ốp La,32000,32000,1,0,0,0,
+3,129434,Thức Uống,969866,Trà Lipton Tắc,20000,20000,1,0,0,0,
+3,129434,Thức Uống,969867,Cam Vắt Ly Lớn,25000,25000,1,0,0,0,
+3,129434,Thức Uống,969868,Cà Phê Sữa Đá,20000,20000,1,0,0,0,
+3,129434,Thức Uống,969869,Sting,20000,20000,1,0,0,0,
+3,129434,Thức Uống,969870,Sâm Rong Biển,15000,15000,1,0,0,0,"rong biển,la hán quả,bông cúc,đường phèn,vị ngọt nhẹ và thanh"
+3,129434,Thức Uống,969871,Bò Húc Thái,20000,20000,1,0,0,0,
+3,129434,Thức Uống,969872,Nước Suối,10000,10000,1,0,0,0,
+3,129434,Thức Uống,969873,Coca-cola,18000,18000,1,0,0,0,
+3,129434,Thức Uống,969874,Trà C2,18000,18000,1,0,0,0,
+3,129434,Thức Uống,969875,7 Up,18000,18000,1,0,0,0,
+3,129434,Thức Uống,969876,Cà Phê Đá,17000,17000,1,0,0,0,
+3,129719,Bánh Mì,971413,Bánh Mì Heo Quay,28000,28000,1,0,0,0,
+3,129719,Bánh Mì,971414,Bánh Mì Thập Cẩm,28000,28000,1,0,0,0,
+3,129719,Bánh Mì,971415,Bánh Mì Ốp La 2 Trứng,25000,25000,1,0,0,0,
+3,129719,Bánh Mì,971416,Bánh Mì Chả Cá,28000,28000,1,0,0,0,
+3,129719,Bánh Mì,971417,Bánh Mì Gà,28000,28000,1,0,0,0,
+3,129719,Bánh Mì,971418,Bánh Mì Xíu Mại,28000,28000,1,0,0,0,
+3,129719,Bánh Mì,971419,Bánh Mì Cá Hộp,28000,28000,1,0,0,0,
+3,129719,Bánh Mì,971420,Bánh Mì Dăm Bông,28000,28000,1,0,0,0,
+3,129719,Bánh Mì,971421,Bánh Mì Chà Bông,28000,28000,1,0,0,0,
+3,129719,Bánh Mì,971422,Bánh Mì Chả Lụa,28000,28000,1,0,0,0,
+3,129719,Bánh Mì,971423,Bánh Mì Xá Xíu,28000,28000,1,0,0,0,
+3,129719,Bánh Mì,971424,Bánh Mì Xúc Xích,25000,25000,1,0,0,0,
+3,129719,Bánh Mì,971425,Bánh Mì Giò Thủ,28000,28000,1,0,0,0,Giò thủ 
+3,129720,Xôi mặn,971426,Xôi Thập Cẩm,39000,39000,1,0,0,0,
+3,129720,Xôi mặn,971427,Xôi Xá Xíu,37000,37000,1,0,0,0,
+3,129720,Xôi mặn,971428,Xôi Gà Đùi Tỏi,39000,39000,1,0,0,0,
+3,129720,Xôi mặn,971429,Xôi Heo Quay,37000,37000,1,0,0,0,
+3,129720,Xôi mặn,971430,Xôi Trứng Ốp La,32000,32000,1,0,0,0,
+3,129721,Thức Uống,971431,Trà Lipton Tắc,20000,20000,1,0,0,0,
+3,129721,Thức Uống,971432,Cam Vắt Ly Lớn,25000,25000,1,0,0,0,
+3,129721,Thức Uống,971433,Cà Phê Sữa Đá,20000,20000,1,0,0,0,
+3,129721,Thức Uống,971434,Sting,20000,20000,1,0,0,0,
+3,129721,Thức Uống,971435,Sâm Rong Biển,15000,15000,1,0,0,0,"rong biển,la hán quả,bông cúc,đường phèn,vị ngọt nhẹ và thanh"
+3,129721,Thức Uống,971436,Bò Húc Thái,20000,20000,1,0,0,0,
+3,129721,Thức Uống,971437,Nước Suối,10000,10000,1,0,0,0,
+3,129721,Thức Uống,971438,Coca-cola,18000,18000,1,0,0,0,
+3,129721,Thức Uống,971439,Trà C2,18000,18000,1,0,0,0,
+3,129721,Thức Uống,971440,7 Up,18000,18000,1,0,0,0,
+3,129721,Thức Uống,971441,Cà Phê Đá,17000,17000,1,0,0,0,
+3,129753,Bánh Mì,972305,Bánh Mì Heo Quay,28000,28000,1,0,0,0,
+3,129753,Bánh Mì,972306,Bánh Mì Ốp La 2 Trứng,25000,25000,1,0,0,0,
+3,129753,Bánh Mì,972307,Bánh Mì Chả Cá,28000,28000,1,0,0,0,
+3,129753,Bánh Mì,972308,Bánh Mì Gà,28000,28000,1,0,0,0,
+3,129753,Bánh Mì,972309,Bánh Mì Xíu Mại,28000,28000,1,0,0,0,
+3,129753,Bánh Mì,972310,Bánh Mì Cá Hộp,28000,28000,1,0,0,0,
+3,129753,Bánh Mì,972311,Bánh Mì Dăm Bông,28000,28000,1,0,0,0,
+3,129753,Bánh Mì,972312,Bánh Mì Chà Bông,28000,28000,1,0,0,0,
+3,129753,Bánh Mì,972313,Bánh Mì Chả Lụa,28000,28000,1,0,0,0,
+3,129753,Bánh Mì,972314,Bánh Mì Xá Xíu,28000,28000,1,0,0,0,
+3,129753,Bánh Mì,972315,Bánh Mì Xúc Xích,25000,25000,1,0,0,0,
+3,129753,Bánh Mì,972316,Bánh Mì Giò Thủ,28000,28000,1,0,0,0,Giò thủ 
+3,129754,Xôi mặn,972317,Xôi Thập Cẩm,39000,39000,1,0,0,0,
+3,129754,Xôi mặn,972318,Xôi Xá Xíu,37000,37000,1,0,0,0,
+3,129754,Xôi mặn,972319,Xôi Gà Đùi Tỏi,39000,39000,1,0,0,0,
+3,129754,Xôi mặn,972320,Xôi Heo Quay,37000,37000,1,0,0,0,
+3,129754,Xôi mặn,972321,Xôi Trứng Ốp La,32000,32000,1,0,0,0,
+3,129755,Thức Uống,972322,Trà Lipton Tắc,20000,20000,1,0,0,0,
+3,129755,Thức Uống,972323,Cà Phê Sữa Đá,20000,20000,1,0,0,0,
+3,129755,Thức Uống,972324,Sting,20000,20000,1,0,0,0,
+3,129755,Thức Uống,972325,Bò Húc Thái,20000,20000,1,0,0,0,
+3,129755,Thức Uống,972326,Nước Suối,10000,10000,1,0,0,0,
+3,129755,Thức Uống,972327,Coca-cola,18000,18000,1,0,0,0,
+3,129755,Thức Uống,972328,Trà C2,18000,18000,1,0,0,0,
+3,129755,Thức Uống,972329,7 Up,18000,18000,1,0,0,0,
+3,129755,Thức Uống,972330,Cà Phê Đá,17000,17000,1,0,0,0,
+3,129806,Bánh Mì,972784,Bánh Mì Heo Quay,28000,28000,1,0,0,0,
+3,129806,Bánh Mì,972785,Bánh Mì Ốp La 2 Trứng,25000,25000,1,0,0,0,
+3,129806,Bánh Mì,972786,Bánh Mì Chả Cá,28000,28000,1,0,0,0,
+3,129806,Bánh Mì,972787,Bánh Mì Gà,28000,28000,1,0,0,0,
+3,129806,Bánh Mì,972788,Bánh Mì Xíu Mại,28000,28000,1,0,0,0,
+3,129806,Bánh Mì,972789,Bánh Mì Cá Hộp,28000,28000,1,0,0,0,
+3,129806,Bánh Mì,972790,Bánh Mì Dăm Bông,28000,28000,1,0,0,0,
+3,129806,Bánh Mì,972791,Bánh Mì Chà Bông,28000,28000,1,0,0,0,
+3,129806,Bánh Mì,972792,Bánh Mì Chả Lụa,28000,28000,1,0,0,0,
+3,129806,Bánh Mì,972793,Bánh Mì Xá Xíu,28000,28000,1,0,0,0,
+3,129806,Bánh Mì,972794,Bánh Mì Xúc Xích,25000,25000,1,0,0,0,
+3,129806,Bánh Mì,972795,Bánh Mì Giò Thủ,28000,28000,1,0,0,0,Giò thủ 
+3,129807,Xôi mặn,972796,Xôi Thập Cẩm,39000,39000,1,0,0,0,
+3,129807,Xôi mặn,972797,Xôi Xá Xíu,37000,37000,1,0,0,0,
+3,129807,Xôi mặn,972798,Xôi Gà Đùi Tỏi,39000,39000,1,0,0,0,
+3,129807,Xôi mặn,972799,Xôi Heo Quay,37000,37000,1,0,0,0,
+3,129807,Xôi mặn,972800,Xôi Trứng Ốp La,32000,32000,1,0,0,0,
+3,129808,Thức Uống,972801,Trà Lipton Tắc,20000,20000,1,0,0,0,
+3,129808,Thức Uống,972802,Cà Phê Sữa Đá,20000,20000,1,0,0,0,
+3,129808,Thức Uống,972803,Sting,20000,20000,1,0,0,0,
+3,129808,Thức Uống,972804,Bò Húc Thái,20000,20000,1,0,0,0,
+3,129808,Thức Uống,972805,Nước Suối,10000,10000,1,0,0,0,
+3,129808,Thức Uống,972806,Coca-cola,18000,18000,1,0,0,0,
+3,129808,Thức Uống,972807,Trà C2,18000,18000,1,0,0,0,
+3,129808,Thức Uống,972808,7 Up,18000,18000,1,0,0,0,
+3,129808,Thức Uống,972809,Cà Phê Đá,17000,17000,1,0,0,0,
+3,131244,Bánh Mì,980902,Bánh Mì Heo Quay,28000,28000,1,0,0,0,
+3,131244,Bánh Mì,980903,Bánh Mì Thập Cẩm,28000,28000,1,0,0,0,
+3,131244,Bánh Mì,980904,Bánh Mì Ốp La 2 Trứng,25000,25000,1,0,0,0,
+3,131244,Bánh Mì,980905,Bánh Mì Chả Cá,28000,28000,1,0,0,0,
+3,131244,Bánh Mì,980906,Bánh Mì Gà,28000,28000,1,0,0,0,
+3,131244,Bánh Mì,980907,Bánh Mì Xíu Mại,28000,28000,1,0,0,0,
+3,131244,Bánh Mì,980908,Bánh Mì Cá Hộp,28000,28000,1,0,0,0,
+3,131244,Bánh Mì,980909,Bánh Mì Dăm Bông,28000,28000,1,0,0,0,
+3,131244,Bánh Mì,980910,Bánh Mì Chà Bông,28000,28000,1,0,0,0,
+3,131244,Bánh Mì,980911,Bánh Mì Chả Lụa,28000,28000,1,0,0,0,
+3,131244,Bánh Mì,980912,Bánh Mì Xá Xíu,28000,28000,1,0,0,0,
+3,131244,Bánh Mì,980913,Bánh Mì Xúc Xích,25000,25000,1,0,0,0,
+3,131244,Bánh Mì,980914,Bánh Mì Giò Thủ,28000,28000,1,0,0,0,Giò thủ 
+3,131245,Xôi mặn,980915,Xôi Thập Cẩm,39000,39000,1,0,0,0,
+3,131245,Xôi mặn,980916,Xôi Xá Xíu,37000,37000,1,0,0,0,
+3,131245,Xôi mặn,980917,Xôi Gà Đùi Tỏi,39000,39000,1,0,0,0,
+3,131245,Xôi mặn,980918,Xôi Heo Quay,37000,37000,1,0,0,0,
+3,131245,Xôi mặn,980919,Xôi Trứng Ốp La,32000,32000,1,0,0,0,
+3,131246,Thức Uống,980920,Trà Lipton Tắc,20000,20000,1,0,0,0,
+3,131246,Thức Uống,980921,Cam Vắt Ly Lớn,25000,25000,1,0,0,0,
+3,131246,Thức Uống,980922,Cà Phê Sữa Đá,20000,20000,1,0,0,0,
+3,131246,Thức Uống,980923,Sting,20000,20000,1,0,0,0,
+3,131246,Thức Uống,980924,Sâm Rong Biển,15000,15000,1,0,0,0,"rong biển,la hán quả,bông cúc,đường phèn,vị ngọt nhẹ và thanh"
+3,131246,Thức Uống,980925,Nước Suối,10000,10000,1,0,0,0,
+3,131246,Thức Uống,980926,Bò Húc Thái,20000,20000,1,0,0,0,
+3,131246,Thức Uống,980927,Coca-cola,18000,18000,1,0,0,0,
+3,131246,Thức Uống,980928,Trà C2,18000,18000,1,0,0,0,
+3,131246,Thức Uống,980929,7 Up,18000,18000,1,0,0,0,
+3,131246,Thức Uống,980930,Cà Phê Đá,17000,17000,1,0,0,0,
+3,131264,Bánh Mì,981042,Bánh Mì Heo Quay,28000,28000,1,0,0,0,
+3,131264,Bánh Mì,981043,Bánh Mì Thập Cẩm,28000,28000,1,0,0,0,
+3,131264,Bánh Mì,981044,Bánh Mì Ốp La 2 Trứng,25000,25000,1,0,0,0,
+3,131264,Bánh Mì,981045,Bánh Mì Chả Cá,28000,28000,1,0,0,0,
+3,131264,Bánh Mì,981046,Bánh Mì Gà,28000,28000,1,0,0,0,
+3,131264,Bánh Mì,981047,Bánh Mì Xíu Mại,28000,28000,1,0,0,0,
+3,131264,Bánh Mì,981048,Bánh Mì Cá Hộp,28000,28000,1,0,0,0,
+3,131264,Bánh Mì,981049,Bánh Mì Dăm Bông,28000,28000,1,0,0,0,
+3,131264,Bánh Mì,981050,Bánh Mì Chà Bông,28000,28000,1,0,0,0,
+3,131264,Bánh Mì,981051,Bánh Mì Chả Lụa,28000,28000,1,0,0,0,
+3,131264,Bánh Mì,981052,Bánh Mì Xá Xíu,28000,28000,1,0,0,0,
+3,131264,Bánh Mì,981053,Bánh Mì Xúc Xích,25000,25000,1,0,0,0,
+3,131264,Bánh Mì,981054,Bánh Mì Giò Thủ,28000,28000,1,0,0,0,Giò thủ 
+3,131265,Xôi mặn,981055,Xôi Thập Cẩm,39000,39000,1,0,0,0,
+3,131265,Xôi mặn,981056,Xôi Xá Xíu,37000,37000,1,0,0,0,
+3,131265,Xôi mặn,981057,Xôi Gà Đùi Tỏi,39000,39000,1,0,0,0,
+3,131265,Xôi mặn,981058,Xôi Heo Quay,37000,37000,1,0,0,0,
+3,131265,Xôi mặn,981059,Xôi Trứng Ốp La,32000,32000,1,0,0,0,
+3,131266,Thức Uống,981060,Trà Lipton Tắc,20000,20000,1,0,0,0,
+3,131266,Thức Uống,981061,Cam Vắt Ly Lớn,25000,25000,1,0,0,0,
+3,131266,Thức Uống,981062,Cà Phê Sữa Đá,20000,20000,1,0,0,0,
+3,131266,Thức Uống,981063,Sting,20000,20000,1,0,0,0,
+3,131266,Thức Uống,981064,Sâm Rong Biển,15000,15000,1,0,0,0,"rong biển,la hán quả,bông cúc,đường phèn,vị ngọt nhẹ và thanh"
+3,131266,Thức Uống,981065,Nước Suối,10000,10000,1,0,0,0,
+3,131266,Thức Uống,981066,Bò Húc Thái,20000,20000,1,0,0,0,
+3,131266,Thức Uống,981067,Coca-cola,18000,18000,1,0,0,0,
+3,131266,Thức Uống,981068,Trà C2,18000,18000,1,0,0,0,
+3,131266,Thức Uống,981069,7 Up,18000,18000,1,0,0,0,
+3,131266,Thức Uống,981070,Cà Phê Đá,17000,17000,1,0,0,0,
+3,131279,Bánh Mì,981096,Bánh Mì Heo Quay,28000,28000,1,0,0,0,
+3,131279,Bánh Mì,981097,Bánh Mì Thập Cẩm,28000,28000,1,0,0,0,
+3,131279,Bánh Mì,981098,Bánh Mì Ốp La 2 Trứng,25000,25000,1,0,0,0,
+3,131279,Bánh Mì,981099,Bánh Mì Chả Cá,28000,28000,1,0,0,0,
+3,131279,Bánh Mì,981100,Bánh Mì Gà,28000,28000,1,0,0,0,
+3,131279,Bánh Mì,981101,Bánh Mì Xíu Mại,28000,28000,1,0,0,0,
+3,131279,Bánh Mì,981102,Bánh Mì Cá Hộp,28000,28000,1,0,0,0,
+3,131279,Bánh Mì,981103,Bánh Mì Dăm Bông,28000,28000,1,0,0,0,
+3,131279,Bánh Mì,981104,Bánh Mì Chà Bông,28000,28000,1,0,0,0,
+3,131279,Bánh Mì,981105,Bánh Mì Chả Lụa,28000,28000,1,0,0,0,
+3,131279,Bánh Mì,981106,Bánh Mì Xá Xíu,28000,28000,1,0,0,0,
+3,131279,Bánh Mì,981107,Bánh Mì Xúc Xích,25000,25000,1,0,0,0,
+3,131279,Bánh Mì,981108,Bánh Mì Giò Thủ,28000,28000,1,0,0,0,Giò thủ 
+3,131280,Xôi mặn,981109,Xôi Thập Cẩm,39000,39000,1,0,0,0,
+3,131280,Xôi mặn,981110,Xôi Xá Xíu,37000,37000,1,0,0,0,
+3,131280,Xôi mặn,981111,Xôi Gà Đùi Tỏi,39000,39000,1,0,0,0,
+3,131280,Xôi mặn,981112,Xôi Heo Quay,37000,37000,1,0,0,0,
+3,131280,Xôi mặn,981113,Xôi Trứng Ốp La,32000,32000,1,0,0,0,
+3,131281,Thức Uống,981114,Trà Lipton Tắc,20000,20000,1,0,0,0,
+3,131281,Thức Uống,981115,Cam Vắt Ly Lớn,25000,25000,1,0,0,0,
+3,131281,Thức Uống,981116,Cà Phê Sữa Đá,20000,20000,1,0,0,0,
+3,131281,Thức Uống,981117,Sting,20000,20000,1,0,0,0,
+3,131281,Thức Uống,981118,Sâm Rong Biển,15000,15000,1,0,0,0,"rong biển,la hán quả,bông cúc,đường phèn,vị ngọt nhẹ và thanh"
+3,131281,Thức Uống,981119,Nước Suối,10000,10000,1,0,0,0,
+3,131281,Thức Uống,981120,Bò Húc Thái,20000,20000,1,0,0,0,
+3,131281,Thức Uống,981121,Coca-cola,18000,18000,1,0,0,0,
+3,131281,Thức Uống,981122,Trà C2,18000,18000,1,0,0,0,
+3,131281,Thức Uống,981123,7 Up,18000,18000,1,0,0,0,
+3,131281,Thức Uống,981124,Cà Phê Đá,17000,17000,1,0,0,0,
+4,121884,Bánh Mì Ngon,8325793,nho,12358,12358,1,0,0,0,
+4,121886,Thức Uống,7138687,Test,10000,10000,1,0,0,0,
+4,1327827,new cate ne,9063296,new item hihii,100000,100000,1,0,0,0,
+5,7,Nguyên liệu làm bánh,18,Yến mạch cán vỡ hữu cơ nhập khẩu Pháp 500g,115000,115000,1,0,0,1,Yến mạch hữu cơ cán vỡ nhập khẩu Pháp - Marka. Nguyên túi 500g. Date 8/2022
+5,7,Nguyên liệu làm bánh,19,Bột bắp hữu cơ nhập khẩu Pháp 500g,185000,185000,1,0,0,1,Bột bắp hữu cơ nhập khẩu Pháp nguyên túi 500g. Date 8/2022
+5,7,Nguyên liệu làm bánh,20,Tinh bột bắp hữu cơ Biovegan Đức 250g,165000,165000,1,0,0,1,Tinh bột bắp hữu cơ Biovegannhập khẩu Đức 250g. Date 9/2024
+5,7,Nguyên liệu làm bánh,21,Yến mạch cán vỡ hữu cơ Ý Sottolestelle 500g,125000,125000,1,0,0,1,Yến mạch cán vỡ hữu cơ Ý Sottolestelle 500g. Date 8/2022
+5,7,Nguyên liệu làm bánh,22,Bột bắp hữu cơ Markal tách lẻ 100g,45000,45000,1,0,0,1,"Bột bắp hữu cơ Markal Pháp, tách lẻ từ túi nguyên ra thành túi zi[ 100g dùng thử. Date 9/2022"
+5,7,Nguyên liệu làm bánh,23,Men đầu bếp đỏ tách lẻ túi Zip 100g từ nguyên túi 500g,35000,35000,1,0,0,1,Lưu ý tách lẻ 100g ra túi Zip từ túi nguyên 500g. Date 4/2023
+5,7,Nguyên liệu làm bánh,24,Tinh bột bắp hữu cơ Biovegan Đức tách lẻ 125g,85000,85000,1,0,0,1,Tinh bột bắp hữu cơ Biovegan Đức tách lẻ túi zip 125g dùng thử. Date 9/2024
+5,7,Nguyên liệu làm bánh,25,Gelatin hữu cơ Sobo dạng bột 9g,49000,49000,1,0,0,1,Gelatin hữu cơ dạng bột 9g Sobo Đức. Date 2/2024
+6,8,TRÀ SỮA,26,Trà sữa ô long,35000,35000,1,0,0,0,
+6,8,TRÀ SỮA,27,Trà sữa trà đen,35000,35000,1,0,0,0,
+6,8,TRÀ SỮA,28,Trà sữa chocolate,35000,35000,1,0,0,0,
+6,8,TRÀ SỮA,29,Trà sữa matcha,41000,41000,1,0,0,0,
+6,8,TRÀ SỮA,30,Trà sữa xoài,41000,41000,1,0,0,0,
+6,8,TRÀ SỮA,31,Trà sữa đào,41000,41000,1,0,0,0,
+6,8,TRÀ SỮA,32,Trà sữa hoa đậu biếc,41000,41000,1,0,0,0,
+6,9,TEA,33,Trà đào,45000,45000,1,0,0,0,
+6,9,TEA,34,Trà vải,45000,45000,1,0,0,0,
+6,9,TEA,35,Trà nho đen,45000,45000,1,0,0,0,
+6,9,TEA,36,Ô long hoa hồng dưa hấu,45000,45000,1,0,0,0,
+6,10,MACCHIATO,37,Chocolate macchiato,41000,41000,1,0,0,0,
+6,10,MACCHIATO,38,Hồng trà macchiato,41000,41000,1,0,0,0,
+6,10,MACCHIATO,40,Matcha macchiato,41000,41000,1,0,0,0,
+6,10,MACCHIATO,41,Trà đậu biếc macchiato,41000,41000,1,0,0,0,
+6,11,Latte - bỏ,42,Sữa đào,36000,36000,1,0,0,0,
+6,11,Latte - bỏ,43,Latte trà đen,36000,36000,1,0,0,0,
+6,11,Latte - bỏ,44,Latte ô long,36000,36000,1,0,0,0,
+6,11,Latte - bỏ,45,Latte đậu biếc,36000,36000,1,0,0,0,
+6,11,Latte - bỏ,46,Latte matcha,36000,36000,1,0,0,0,
+6,12,Chill,47,Tiger đào,45000,45000,1,0,0,0,
+6,12,Chill,48,Tiger vải,45000,45000,1,0,0,0,
+6,12,Chill,49,Strongbow gold,49000,49000,1,0,0,0,
+6,12,Chill,50,Strongbow red berries,49000,49000,1,0,0,0,
+6,13,Food,51,Khô gà lá chanh,29000,29000,1,0,0,0,
+6,13,Food,52,Khô bò,45000,45000,1,0,0,0,
+7,14,Bỏ,53,Sữa tươi trân châu đường đen,100000,100000,1,0,0,0,Béo ngậy thơm ngon
+7,14,Bỏ,123211,Sữa tươi trân châu trứng,100000,100000,1,0,0,0,Béo ngậy thơm ngon
+7,27541,Trà sữa,250146,Trà sữa siêu ngon,25000,30000,1,0,0,0,Siêu ngon béo ngậy
+7,121896,Bánh Mì,916492,Bánh Mì Heo Quay,28000,28000,1,0,0,0,
+7,121896,Bánh Mì,916493,Bánh Mì Thập Cẩm,28000,28000,1,0,0,0,
+7,121896,Bánh Mì,916494,Bánh Mì Ốp La 2 Trứng,25000,25000,1,0,0,0,
+7,121896,Bánh Mì,916495,Bánh Mì Chả Cá,28000,28000,1,0,0,0,
+7,121896,Bánh Mì,916496,Bánh Mì Gà,28000,28000,1,0,0,0,
+7,121896,Bánh Mì,916497,Bánh Mì Cá Hộp,28000,28000,1,0,0,0,
+7,121896,Bánh Mì,916498,Bánh Mì Chà Bông,28000,28000,1,0,0,0,
+7,121896,Bánh Mì,916499,Bánh Mì Dăm Bông,28000,28000,1,0,0,0,
+7,121896,Bánh Mì,916500,Bánh Mì Chả Lụa,28000,28000,1,0,0,0,
+7,121896,Bánh Mì,916501,Bánh Mì Xá Xíu,28000,28000,1,0,0,0,
+7,121896,Bánh Mì,916502,Bánh Mì Xúc Xích,25000,25000,1,0,0,0,
+7,121896,Bánh Mì,916503,Bánh Mì Giò Thủ,28000,28000,1,0,0,0,Giò thủ 
+7,121897,Xôi mặn,916504,Xôi Thập Cẩm,39000,39000,1,0,0,0,
+7,121897,Xôi mặn,916505,Xôi Xá Xíu,37000,37000,1,0,0,0,
+7,121897,Xôi mặn,916506,Xôi Gà Đùi Tỏi,39000,39000,1,0,0,0,
+7,121897,Xôi mặn,916507,Xôi Heo Quay,37000,37000,1,0,0,0,
+7,121897,Xôi mặn,916508,Xôi Trứng Ốp La,32000,32000,1,0,0,0,
+7,121898,Thức Uống,916509,Trà Lipton Tắc,20000,20000,1,0,0,0,
+7,121898,Thức Uống,916510,Cam Vắt Ly Lớn,25000,25000,1,0,0,0,
+7,121898,Thức Uống,916511,Cà Phê Sữa Đá,20000,20000,1,0,0,0,
+7,121898,Thức Uống,916512,Sting,20000,20000,1,0,0,0,
+7,121898,Thức Uống,916513,Sâm Rong Biển,15000,15000,1,0,0,0,"rong biển,la hán quả,bông cúc,đường phèn,vị ngọt nhẹ và thanh"
+7,121898,Thức Uống,916514,Nước Suối,10000,10000,1,0,0,0,
+7,121898,Thức Uống,916515,Bò Húc Thái,20000,20000,1,0,0,0,
+7,121898,Thức Uống,916516,Coca-cola,18000,18000,1,0,0,0,
+7,121898,Thức Uống,916517,Trà C2,18000,18000,1,0,0,0,
+7,121898,Thức Uống,916518,7 Up,18000,18000,1,0,0,0,
+7,121898,Thức Uống,916519,Cà Phê Đá,17000,17000,1,0,0,0,
+7,123766,Bánh Mì,929861,Bánh Mì Heo Quay,28000,28000,1,0,0,0,
+7,123766,Bánh Mì,929862,Bánh Mì Thập Cẩm,28000,28000,1,0,0,0,
+7,123766,Bánh Mì,929863,Bánh Mì Ốp La 2 Trứng,25000,25000,1,0,0,0,
+7,123766,Bánh Mì,929864,Bánh Mì Chả Cá,28000,28000,1,0,0,0,
+7,123766,Bánh Mì,929865,Bánh Mì Gà,28000,28000,1,0,0,0,
+7,123766,Bánh Mì,929866,Bánh Mì Xíu Mại,28000,28000,1,0,0,0,
+7,123766,Bánh Mì,929867,Bánh Mì Cá Hộp,28000,28000,1,0,0,0,
+7,123766,Bánh Mì,929868,Bánh Mì Chà Bông,28000,28000,1,0,0,0,
+7,123766,Bánh Mì,929869,Bánh Mì Dăm Bông,28000,28000,1,0,0,0,
+7,123766,Bánh Mì,929870,Bánh Mì Chả Lụa,28000,28000,1,0,0,0,
+7,123766,Bánh Mì,929871,Bánh Mì Xá Xíu,28000,28000,1,0,0,0,
+7,123766,Bánh Mì,929872,Bánh Mì Xúc Xích,25000,25000,1,0,0,0,
+7,123766,Bánh Mì,929873,Bánh Mì Giò Thủ,28000,28000,1,0,0,0,Giò thủ 
+7,123767,Xôi mặn,929874,Xôi Thập Cẩm,39000,39000,1,0,0,0,
+7,123767,Xôi mặn,929875,Xôi Xá Xíu,37000,37000,1,0,0,0,
+7,123767,Xôi mặn,929876,Xôi Heo Quay,37000,37000,1,0,0,0,
+7,123767,Xôi mặn,929877,Xôi Trứng Ốp La,32000,32000,1,0,0,0,
+7,123768,Thức Uống,929878,Trà Lipton Tắc,20000,20000,1,0,0,0,
+7,123768,Thức Uống,929879,Cam Vắt Ly Lớn,25000,25000,1,0,0,0,
+7,123768,Thức Uống,929880,Cà Phê Sữa Đá,20000,20000,1,0,0,0,
+7,123768,Thức Uống,929881,Sting,20000,20000,1,0,0,0,
+7,123768,Thức Uống,929882,Sâm Rong Biển,15000,15000,1,0,0,0,"rong biển,la hán quả,bông cúc,đường phèn,vị ngọt nhẹ và thanh"
+7,123768,Thức Uống,929883,Nước Suối,10000,10000,1,0,0,0,
+7,123768,Thức Uống,929884,Bò Húc Thái,20000,20000,1,0,0,0,
+7,123768,Thức Uống,929885,Coca-cola,18000,18000,1,0,0,0,
+7,123768,Thức Uống,929886,Trà C2,18000,18000,1,0,0,0,
+7,123768,Thức Uống,929887,7 Up,18000,18000,1,0,0,0,
+7,123768,Thức Uống,929888,Cà Phê Đá,17000,17000,1,0,0,0,
+8,639847,Kem Hộp 500Ml - 300Gr,4324620,Kem gelato socola - dark chocolate,165000,165000,1,0,0,0,Kem Hộp 500ML/300GR Gelato DARK CHOCOLATE sử dụng SOCOLA ĐEN nguyên chất của Ý cho vị Đắng tự nhiên ít ngọt và ít béo... Tặng thêm 2 bánh Waffle Vị Socola Ngon Giòn hảo hạng...
+8,639847,Kem Hộp 500Ml - 300Gr,4324621,Kem gelato phô mai Pháp - mascarpone cheese,165000,165000,1,0,0,0,Kem Hộp 500ML/300GR Gelato CHEESE MASCARPONE sử dụng 100% PHÔ MAI MASCARPONE của Pháp cho vị NGON-BÉO cùng vị MẶN tròn vị nhất... Tặng thêm 2 bánh Waffle Vị Socola Ngon Giòn hảo hangj...
+8,639847,Kem Hộp 500Ml - 300Gr,4324622,Kem gelato anh đào - gelato cherry,165000,165000,1,0,0,0,Kem Hộp 500ML/300GR Gelato CHERRY sử dụng Trái Anh Dào Tươi BOOTH của Úc cho vị THANH BÉO NHẸ NHÀNG tự nhiên ... Tặng thêm 2 bánh Waffle Vị SoCoLa Ngon Giòn hảo hạng...
+8,639847,Kem Hộp 500Ml - 300Gr,4324623,Kem gelato matcha,165000,165000,1,0,0,0,Kem Hộp 500ML/300GR Gelato MATCHA sử dụng MATCHA nguyên chất tự nhiên cho vị đậm đà thanh tao của Nhật Bản... Tặng thêm 2 bánh Waffle Vị Socola Ngon Giòn hảo hạng...
+8,639847,Kem Hộp 500Ml - 300Gr,4324624,Kem gelato dưa lưới - gelato melon,165000,165000,1,0,0,0,Kem Hộp 500ML/300GR Gelato DƯA LƯỚI sử dụng DƯA LƯỚI VÀNG CAM của NHẬT cho vi ngọt thanh và chua tự nhiên... Tặng thêm 2 bánh Waffle Vị Socola Ngon Giòn hảo hạng...
+8,639847,Kem Hộp 500Ml - 300Gr,4324625,Kem gelato cà phê muối kopiko - salted coffee,165000,165000,1,0,0,0,Công nghệ rang xay Cà Phê Việt Nam hảo hạn cùng công thức khoa học của Kem Gelato Ý đây thật sự là vị Kem không nên bỏ qua khi đến với ANH KREM... Shop tặng thêm 2 bánh Waffle Socola cho mỗi hộp
+8,639847,Kem Hộp 500Ml - 300Gr,4324626,Kem gelato vani Pháp - French vanilla,165000,165000,1,0,0,0,Kem Hộp 500ML/300Gr VANILLA PHÁP sử dụng 100% VANILLA của Pháp cho vị NGON-BÉO-NGỌT NGÀO dành cho banj... Tặng thêm 2 bánh Waffle Vị Socola Ngon Giòn Hảo Hạng
+8,639847,Kem Hộp 500Ml - 300Gr,4324627,Kem gelato avocado - kem bơ,165000,165000,1,0,0,0,Kem Hộp 500ML/300GR Gelato AVOCADO sử dụng 100% BƠ BOOTH tươi của Đắk Lắk cho vị NGỌT-BÉO tự nhiên nhâts... Tặng thêm 2 bánh Waffle Vị Socola Ngon Giòn hảo hạng...
+8,639847,Kem Hộp 500Ml - 300Gr,4324628,Kem gelato cốt dừa - gelato fresh coconut,165000,165000,1,0,0,0,Kem Hộp 500ML/300GR Gelato CỐT DỪA sử dụng NƯỚC CỐT DỪA TƯƠI nguyên chất của Bến Tre cho vị NGON-BÉO đặc trưng của Vị Cốt Dừa Việt Nam... Tặng thêm 2 bánh Waffle Vị Socola Ngon Giòn hảo hạng...
+8,639847,Kem Hộp 500Ml - 300Gr,4324629,Kem gelato sầu riêng - gelato durian,185000,185000,1,0,0,0,Kem Hộp 500ML/300GR Gelato Sầu Riêng sử dụng Sầu Riêng Tươi 6Ri nổi tiếng của Đồng Tháp cho vị NGON-BÉO đậm dà vị quê hương Việt Nam... Tặng thêm 2 bánh Waffle Vị Socola Ngon Giòn hảo hạng...
+8,639847,Kem Hộp 500Ml - 300Gr,4324630,Kem gelato bạc hà chocochip - mint chip,165000,165000,1,0,0,0,The mát thanh đắng mà không ngọt... Bạc Hà Chocochip ở đây ngon lắm nek Quý Dzị ơi... Shop tặng thêm 2 bánh Waffle Socola ăn nhiều hơn ngon hơn nhé... 
+8,639847,Kem Hộp 500Ml - 300Gr,4324631,Kem gelato rum nho - rum&raisin,165000,165000,1,0,0,0,Bằng cách sử dụng Dark Rum đậm đà với Nho Khô được trộn đều trong Kem thật tuyệt vời cho những bữa tiệc xập xình... Shop tặng thêm 2 bánh waffle socola ăn ngon hơn nhiều hơn nhé...
+8,639847,Kem Hộp 500Ml - 300Gr,4324632,Kem gelato milo kitkat,195000,195000,1,0,0,0,Vị Milo tuyệt vời cả một thời tuổi trẻ cùng với KitKat giòn thơm hoà quyện vị KREM HOÀN HẢO cho Quý Vị... Shop tặng thêm miễn phí 2 Bánh Waffle Socola đậm đà ăn ngon hơn...
+8,639847,Kem Hộp 500Ml - 300Gr,4324633,Kem gelato hạt dẻ cười - pistachio,195000,195000,1,0,0,0,Mệnh danh là Vàng Xanh cửa Nước Ý Pistachio Hạt Dẻ Cười là một trong những loại hạt giàu Protein giúp ổn định tim mạch và tuần hoàn máu rất tốt... Shop tặng thêm 2 bánh Waffle Socola ăn ngon hơn nhé
+8,639848,Kem Hộp 750Ml - 500Gr,4324634,Kem gelato avocado - bơ booth k'rem,195000,195000,1,0,0,0,Kem Hộp 500Gr Gelato sử dụng 100% nguyên liệu trái Bơ Booth Tươi cho vị Ngon Ngọt và Béo tự nhiên nhất của sản phẩm... Mình Tặng thêm 3 bánh Waffle Vị Socola Ngon Giòn Rộp Rộp nhé...
+9,658910,Cà Phê - Coffee,4463098,Cà phê sữa,25000,25000,1,0,0,0,Milk coffee
+9,658910,Cà Phê - Coffee,4463099,Cà phê đen,20000,20000,1,0,0,0,Black coffee
+9,658910,Cà Phê - Coffee,4463100,Cacao,30000,30000,1,0,0,0,
+9,658910,Cà Phê - Coffee,4463101,Bạc sỉu,30000,30000,1,0,0,0,
+9,658910,Cà Phê - Coffee,4463102,Cacao sữa,30000,30000,1,0,0,0,
+9,658910,Cà Phê - Coffee,4463103,Cà phê sữa kem,38000,38000,1,0,0,0,Iced milk coffee with ice cream
+9,658910,Cà Phê - Coffee,4463104,Cà phê kem,35000,35000,1,0,0,0,Iced black coffee with ice cream
+9,658910,Cà Phê - Coffee,4463105,Sữa tươi,22000,22000,1,0,0,0,Fresh milk
+9,658910,Cà Phê - Coffee,4463106,Espresso,35000,35000,1,0,0,0,
+9,658911,Trà - Tea,4463107,Trà đào cam sả,35000,35000,1,0,0,0,Peach tea with organge and citroella
+9,658911,Trà - Tea,4463108,Trà vải,30000,30000,1,0,0,0,Lychee tea
+9,658911,Trà - Tea,4463109,Trà đào,30000,30000,1,0,0,0,Peach tea
+9,658911,Trà - Tea,4463110,Trà mật ong gừng,26000,26000,1,0,0,0,Ginger tea with honey
+9,658911,Trà - Tea,4463111,Trà lipton chanh,25000,25000,1,0,0,0,Lemon lipton tea
+9,658911,Trà - Tea,4463112,Trà olong machiato,30000,30000,1,0,0,0,
+9,658911,Trà - Tea,4463113,Trà chanh dây,30000,30000,1,0,0,0,Passion fruit tea
+9,658911,Trà - Tea,4463114,Hồng trà machiato,30000,30000,1,0,0,0,
+9,658911,Trà - Tea,4463115,Matcha trà tươi,25000,25000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463116,Cam vắt,30000,30000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463117,Ép bưởi,30000,30000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463118,Red sunset,35000,35000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463119,Ép táo,30000,30000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463120,Ép dưa hấu,30000,30000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463121,Ép thơm,30000,30000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463122,Nước chanh,25000,25000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463123,Soda chanh,35000,35000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463124,Mojito passion,40000,40000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463125,Ép cà rốt,30000,30000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463126,Red sunset,36000,36000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463127,Deep blue,35000,35000,1,0,0,0,
+9,658912,Y26 Đặc Sắc - Y26'S Signature,4463128,Ép cà rốt chanh dây,35000,35000,1,0,0,0,
+9,658913,Trà Sữa - Milk Tea,4463129,Trà sữa truyền thống,22000,22000,1,0,0,0,Traditinol milk tea
+9,658913,Trà Sữa - Milk Tea,4463130,Sữa tươi trân châu đường đen,35000,35000,1,0,0,0,
+9,658913,Trà Sữa - Milk Tea,4463131,Trà sữa Macchiato,30000,30000,1,0,0,0,Milk tea Macchiato
+9,658913,Trà Sữa - Milk Tea,4463132,Trà sữa dâu,25000,25000,1,0,0,0,
+9,658913,Trà Sữa - Milk Tea,4463133,Trà sữa socola,25000,25000,1,0,0,0,
+9,658913,Trà Sữa - Milk Tea,4463134,Trà sữa việt quất,25000,25000,1,0,0,0,
+9,658914,Đá Xay - Ice Blended,4463135,Green tea freezer,40000,40000,1,0,0,0,Bột trà xanh + sữa
+9,658914,Đá Xay - Ice Blended,4463136,Cookie cream,40000,40000,1,0,0,0,Bánh oreo + sữa
+9,658914,Đá Xay - Ice Blended,4463137,Socola đá xay,40000,40000,1,0,0,0,Socola + sữa
+9,658914,Đá Xay - Ice Blended,4463138,Sữa chanh xay,30000,30000,1,0,0,0,Iced Blended Lemon with Milk
+9,658915,Sữa Chua Lắc - Yaourt Shake,4463139,Blueberry shake,37000,37000,1,0,0,0,Việt quất + yaourt + sữa
+9,658915,Sữa Chua Lắc - Yaourt Shake,4463140,Classic yaourt shake,35000,35000,1,0,0,0,Yaourt đá
+9,658915,Sữa Chua Lắc - Yaourt Shake,4463141,Peach shake,35000,35000,1,0,0,0,Đào + yaourt + sữa
+9,658915,Sữa Chua Lắc - Yaourt Shake,4463142,Wild berry shake,35000,35000,1,0,0,0,Dâu + yaourt + sữa
+9,658915,Sữa Chua Lắc - Yaourt Shake,4463143,Yaour phúc bồn tử,25000,25000,1,0,0,0,
+9,658915,Sữa Chua Lắc - Yaourt Shake,4463144,Yaour trái cây,35000,35000,1,0,0,0,
+9,658915,Sữa Chua Lắc - Yaourt Shake,4463145,Yaour đào,35000,35000,1,0,0,0,
+9,658915,Sữa Chua Lắc - Yaourt Shake,4463146,Yaour dâu,35000,35000,1,0,0,0,
+9,658915,Sữa Chua Lắc - Yaourt Shake,4463147,Yaour kiwi,35000,35000,1,0,0,0,
+9,658916,Sinh Tố - Smoothies,4463148,Sinh tố dâu,40000,40000,1,0,0,0,Strawberry smoothie
+9,658916,Sinh Tố - Smoothies,4463149,Sinh tố sapoche,40000,40000,1,0,0,0,Sapodilla smoothie
+9,658916,Sinh Tố - Smoothies,4463150,Sinh tố bơ - theo mùa,40000,40000,1,0,0,0,Avocado smoothie
+10,1298085,Tokbokki,8801575,Tokbokki - phần lớn - 1 người ,35000,35000,1,1,0,0,
+10,1298086,Đồ Chiên,8801578,Viên chiên thập cẩm - 2 người ăn,95000,95000,1,1,0,0,34v 10 loại + 2 xúc xích Đức 
+10,1298086,Đồ Chiên,8801586,Viên chiên thập cẩm - 4 người ăn,130000,130000,1,1,0,0,34v 10 loại + 2 xúc xích Đức + nem chua rán + dồi sụn + chả cốm + nem nướng Nha Trang
+10,1298086,Đồ Chiên,8801594,Viên chiên thập cẩm - phần 5 đến 6 người,175000,175000,1,0,0,0,34v 10 loại + 4 xúc xích Đức + nem chua rán + dồi sụn + chả cốm + nem nướng Nha Trang + chả cua + chả mỡ + chả cá NT 
+10,1298086,Đồ Chiên,8801581,Khoai tây lắc phô mai - 250gr,45000,45000,1,0,0,0,
+10,1298086,Đồ Chiên,8801592,Nem nướng Nha Trang,27000,27000,1,1,0,0,
+10,1298086,Đồ Chiên,8801590,Nem chua rán ,23000,23000,1,0,0,0,
+10,1298086,Đồ Chiên,8801591,Chả cốm,23000,23000,1,0,0,0,
+10,1298086,Đồ Chiên,8801589,Dồi sụn nướng,25000,25000,1,1,0,0,
+10,1298086,Đồ Chiên,8801588,Chả mỡ,27000,27000,1,1,0,0,
+10,1298086,Đồ Chiên,8801582,Chả cá Nha Trang,28000,28000,1,0,0,0,
+10,1298086,Đồ Chiên,8801585,Chả cua,30000,30000,1,0,0,0,
+10,1298086,Đồ Chiên,8801577,Hotdog phô mai xúc xích,17000,17000,1,0,0,0,
+10,1298086,Đồ Chiên,8801584,Xúc xích Đức,12000,12000,1,0,0,0,
+10,1298086,Đồ Chiên,8801576,Chả cá Hàn Quốc,12000,12000,1,2,0,0,
+10,1298086,Đồ Chiên,8801580,Cá viên - 10v,12000,12000,1,0,0,0,
+10,1298086,Đồ Chiên,8801587,Bò viên - 10v,12000,12000,1,0,0,0,10 viên
+10,1298087,Đồ Uống,8801596,Trà dâu,30000,30000,1,0,0,0,"Chai không đá, pha được 2 ly"
+10,1298087,Đồ Uống,8801597,Trà tắc,25000,25000,1,1,0,0,Chai không đá
+11,644842,Lẩu Đồng Giá,4358748,Lẩu cá hú,99000,99000,1,0,0,0,"Lẩu ngon, đầy đủ rau đi kèm, ớt sate độc quyền của quán."
+11,644842,Lẩu Đồng Giá,4358749,Lầu gà lá giang,99000,99000,1,0,0,0,"Lẩu ngon, đầy đủ rau đi kèm, ớt sate độc quyền của quán."
+11,644842,Lẩu Đồng Giá,4358750,Lẩu cá đuối,99000,99000,1,0,0,0,"Lẩu ngon, đầy đủ rau đi kèm, ớt sate độc quyền của quán."
+11,644842,Lẩu Đồng Giá,4358751,Lẩu cá sapa,99000,99000,1,0,0,0,"Lẩu ngon, đầy đủ rau đi kèm, ớt sate độc quyền của quán."
+11,644842,Lẩu Đồng Giá,4358752,Lẩu cá kèo lá giang,99000,99000,1,0,0,0,"Lẩu ngon, đầy đủ rau đi kèm, ớt sate độc quyền của quán."
+11,644842,Lẩu Đồng Giá,4358753,Lẩu lươn,99000,99000,1,0,0,0,"Lẩu ngon, đầy đủ rau đi kèm, ớt sate độc quyền của quán."
+11,644842,Lẩu Đồng Giá,4358754,Lẩu ếch,99000,99000,1,0,0,0,"Lẩu ngon, đầy đủ rau đi kèm, ớt sate độc quyền của quán."
+11,644842,Lẩu Đồng Giá,4358755,Lẩu mực,99000,99000,1,0,0,0,"Lẩu ngon, đầy đủ rau đi kèm, ớt sate độc quyền của quán."
+11,644842,Lẩu Đồng Giá,4358756,Lẩu ly full topping tá lả,99000,99000,1,0,0,0,"Lẩu ngon, đầy đủ rau đi kèm, ớt sate độc quyền của quán."
+11,644842,Lẩu Đồng Giá,4358757,Lẩu cá diêu hồng,99000,99000,1,0,0,0,"Lẩu ngon, đầy đủ rau đi kèm, ớt sate độc quyền của quán."
+11,644842,Lẩu Đồng Giá,4358758,Lẩu cá hồi,99000,99000,1,0,0,0,"Lẩu ngon, đầy đủ rau đi kèm, ớt sate độc quyền của quán."
+11,644843,Món Thêm Của Lẩu,4358759,Cá đuối thêm,67000,67000,1,0,0,0,
+11,644843,Món Thêm Của Lẩu,4358760,Gà thêm,67000,67000,1,0,0,0,
+11,644843,Món Thêm Của Lẩu,4358761,Cá diêu hồng thêm,67000,67000,1,0,0,0,
+11,644843,Món Thêm Của Lẩu,4358762,Viên thả lẩu tá lả thêm,67000,67000,1,0,0,0,
+11,644843,Món Thêm Của Lẩu,4358763,Cá sapa thêm,67000,67000,1,0,0,0,
+11,644843,Món Thêm Của Lẩu,4358764,Ếch thêm,67000,67000,1,0,0,0,
+11,644843,Món Thêm Của Lẩu,4358765,Mực thêm,67000,67000,1,0,0,0,
+11,644843,Món Thêm Của Lẩu,4358766,Lươn thêm,67000,67000,1,0,0,0,
+11,644843,Món Thêm Của Lẩu,4358767,Cá hú thêm,67000,67000,1,0,0,0,
+11,644843,Món Thêm Của Lẩu,4358768,Cá hồi thêm,67000,67000,1,0,0,0,
+11,644843,Món Thêm Của Lẩu,4358769,Cá kèo thêm,67000,67000,1,0,0,0,
+11,644844,Món Thêm Ăn Kèm Lẩu,4358770,Bún thêm,12000,12000,1,0,0,0,
+11,644844,Món Thêm Ăn Kèm Lẩu,4358771,Mì thêm,15000,15000,1,0,0,0,2 vắt mì như hình nè 
+11,644844,Món Thêm Ăn Kèm Lẩu,4358772,Lẩu Rau thêm,25000,25000,1,0,0,0,
+11,644844,Món Thêm Ăn Kèm Lẩu,4358773,Nấm thêm,25000,25000,1,0,0,0,
+11,644844,Món Thêm Ăn Kèm Lẩu,4358774,Măng chua thêm,25000,25000,1,0,0,0,
+11,644841,Giải Khát,4358746,Trà tắc big size,20000,20000,1,0,0,0,
+11,644841,Giải Khát,4358747,Nước cam mật ong big size,30000,30000,1,0,0,0,
+12,26,Happy tue,109,Cơm cánh gà sốt cay tropical rush,39000,39000,1,0,0,0,
+12,29,Cánh gà O shack,122,Cánh gà sốt Samurai,59000,59000,1,0,0,0,"Vị tương Nhật dịu ngọt hòa quyện cùng tỏi rang giòn rôm rốp, 4-6 miếng cánh gà kèm đồ chua"
+12,29,Cánh gà O shack,143,Cánh gà sốt Nana,59000,59000,1,0,0,0,"Vị me chua thanh kết hợp hương thơm của sắc đỏ sa tế không cay, 4-6 miếng cánh gà kèm đồ chua"
+12,29,Cánh gà O shack,252,Cánh gà 8 miếng,109000,109000,1,0,0,0,8-10 miếng cánh gà chọn đến 2 loại sốt kèm đồ chua
+12,29,Cánh gà O shack,258,Cánh gà sốt tropical rush cay,59000,59000,1,0,0,0,"Vị BBQ mang bí quyết đặc trưng của o shack, cay xuýt xoa nhưng lại nồng nàn khó cưỡng, 4-6 miếng cánh gà kèm đồ chua"
+12,29,Cánh gà O shack,261,Cánh gà 16 miếng,219000,219000,1,0,0,0,16-18 miếng cánh gà chọn đến 2 loại sốt kèm đồ chua
+12,55,Sides,268,Salad thủy canh - L,15000,15000,1,0,0,0,"Xà lách ‘thuỷ canh’, cà chua, hành tây từ vựa Đà Lạt trộn cùng sốt dầu giấm"
+12,55,Sides,281,Salad thủy canh - S,10000,10000,1,0,0,0,"Xà lách thuỷ canh, cà chua, hành tây từ vựa Đà Lạt trộn cùng sốt dầu giấm"
+12,55,Sides,282,Cơm trắng,5000,5000,1,0,0,0,
+12,58,Giải Khát,283,Nước chanh hoa đậu biếc,18000,18000,1,0,0,0,
+12,58,Giải Khát,285,Nước suối,10000,10000,1,0,0,0,
+12,58,Giải Khát,288,7up,15000,15000,1,0,0,0,
+12,58,Giải Khát,284,Coca,15000,15000,1,0,0,0,
+12,58,Giải Khát,286,Nước vị trái cây Lavie,15000,15000,1,0,0,0,
+13,638378,Nước ép,4313865,Nước ép dưa hấu,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313866,Ép thơm+táo,27000,27000,1,1,0,0,
+13,638378,Nước ép,4313867,Nước ép ổi,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313868,Nước ép cà rốt + cà chua,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313869,Nước ép cam,17000,17000,1,0,0,0,
+13,638378,Nước ép,4313870,Ép sơ ri+cóc,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313871,Ép dưa lưới,32000,32000,1,0,0,0,
+13,638378,Nước ép,4313872,Ép thơm+cam,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313873,Nước ép cóc,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313874,Nước ép táo,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313875,Nước ép cà rốt + thơm,27000,27000,1,1,0,0,
+13,638378,Nước ép,4313876,Ép táo+lê,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313877,Nước ép thơm + đường,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313878,Nước ép cà rốt + cam,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313879,Nước ép sơ ri,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313880,Ép cóc+ổi,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313881,Ép cóc thơm,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313882,Nước ép chanh dây,17000,17000,1,0,0,0,
+13,638378,Nước ép,4313883,Nước ép lê,27000,27000,1,1,0,0,
+13,638378,Nước ép,4313884,Nước ép thơm + sữa,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313885,Nước ép cà chua,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313886,Ép bí đao+ thơm,27000,27000,1,0,0,0,
+13,638378,Nước ép,4313887,Nước ép bí đao,27000,27000,1,0,0,0,
+13,638379,Sinh tố,4313888,Sinh tố bơ,32000,32000,1,2,0,0,
+13,638379,Sinh tố,4313889,Sinh tố dâu,32000,32000,1,1,0,0,
+13,638379,Sinh tố,4313890,Sinh tố sapoche,27000,27000,1,0,0,0,
+13,638379,Sinh tố,4313891,Sinh tố mãng cầu,32000,32000,1,1,0,0,
+13,638379,Sinh tố,4313892,Sinh tố bơ + sầu riêng,37000,37000,1,0,0,0,
+13,638379,Sinh tố,4313893,Sinh tố dâu + yogurt,37000,37000,1,0,0,0,
+13,638379,Sinh tố,4313894,Sinh tố dừa,27000,27000,1,0,0,0,
+13,638379,Sinh tố,4313895,Sinh tố dưa gang,27000,27000,1,3,0,0,
+13,638379,Sinh tố,4313896,Trái cây dầm,37000,37000,1,0,0,0,
+13,638379,Sinh tố,4313897,Sinh tố mãng cầu+dâu ,37000,37000,1,0,0,0,
+13,638379,Sinh tố,4313898,Sinh tố dừa cacao,32000,32000,1,0,0,0,
+13,638379,Sinh tố,4313899,Sinh tố xoài + dâu,37000,37000,1,1,0,0,
+13,638379,Sinh tố,4313900,Sinh tố xoài,27000,27000,1,0,0,0,
+13,638379,Sinh tố,4313901,Sinh tố bơ + dưa gang,37000,37000,1,1,0,0,
+13,638379,Sinh tố,4313902,Sinh tố đu đủ,27000,27000,1,0,0,0,
+13,638379,Sinh tố,4313903,Sinh tố xoài + chuối,27000,27000,1,0,0,0,
+13,638379,Sinh tố,4313904,Sinh tố bơ+mãng cầu,37000,37000,1,0,0,0,
+13,638379,Sinh tố,4313905,Sinh tố bơ +dừa,37000,37000,1,0,0,0,
+13,638379,Sinh tố,4313906,Sinh tố dưa lưới,32000,32000,1,0,0,0,
+13,638379,Sinh tố,4313907,Dâu chuối,37000,37000,1,1,0,0,
+13,638379,Sinh tố,4313908,Sinh tố mít,27000,27000,1,0,0,0,
+13,638379,Sinh tố,4313909,Sinh tố chanh,27000,27000,1,0,0,0,
+13,638379,Sinh tố,4313910,Dâu tằm + sữa chua,32000,32000,1,0,0,0,
+13,638379,Sinh tố,4313911,Sinh tố cà chua,27000,27000,1,0,0,0,
+13,638379,Sinh tố,4313912,Sinh tố chuối,27000,27000,1,0,0,0,
+13,638379,Sinh tố,4313913,Sinh tố bơ+chuối,37000,37000,1,0,0,0,
+13,638379,Sinh tố,4313914,Sinh tố dâu tằm,27000,27000,1,0,0,0,
+13,638379,Sinh tố,4313915,Sầu riêng ,32000,32000,1,0,0,0,
+13,638379,Sinh tố,4313916,Sinh tố dâu + cà chua,37000,37000,1,0,0,0,
+14,639817,Signature Taste - Tradition VN Coffee,4324400,Phê Phở Hà Nội,63800,63800,1,0,0,0,"Cà phê sữa hòa quyện cùng các loại gia vị đặc trưng lấy cảm hứng từ món Phở truyền thống, điểm xuyến thêm chút foam sữa lạnh mang lại hương vị đầy dễ chịu."
+14,639818,Original Taste - Traditional VN Coffee,4324401,Sữa Đá,40600,40600,1,0,0,0,"Cà phê phin truyền thống hòa lẫn với sữa đặc thơm ngọt, đem lại hương vị đậm đà khó quên."
+14,639818,Original Taste - Traditional VN Coffee,4324402,Bạc Tẩy Xỉu Phé,40600,40600,1,0,0,0,"Bạc xỉu được pha chuẩn cách truyền thống, nhờ kết hợp cà phê phin với sữa đặc pha nước sôi thay cho sữa tươi, mang lại trải nghiệm vị giác đầy độc đáo."
+14,639818,Original Taste - Traditional VN Coffee,4324403,Đen Đá,34800,34800,1,0,0,0,"Hương vị đậm đà chuẩn truyền thống, được pha phin để chiết xuất nguyên vẹn những lớp vị đặc trưng nhất của hạt Robusta."
+14,639819,Signature Taste - Foreign Coffee,4324404,Phê Thái Lan Sìu Châu,104400,104400,1,0,0,0,"Vị ngọt, bùi béo từ kẹo đậu phộng và sữa tươi hòa cùng vị cà phê đắng nhẹ thoảng thoảng hương trái cây, kèm chút foam sữa béo, mặn nhẹ phía trên càng khiến hương vị đậm đà thêm vài phần."
+14,639820,Fruit Tea,4324405,Trà Tắc Thảo Mộc,58000,58000,1,0,0,0,"Mùi thơm trà tắc và sả lan toả tạo cảm giác thanh mát và tươi mới như buổi sớm tinh mơ cùng vị chua ngọt dịu từ các nguyên liệu tốt cho sức khoẻ như cam vàng, tắc, mật ong, táo đỏ và kỷ tử."
+14,639820,Fruit Tea,4324406,Trà Vải Hoa Bụt Giấm/ Lychee Hibicus Tea,58000,58000,1,0,0,0,"Mùi vải thơm thoang thoảng đi kèm vị chua nhẹ thanh từ chanh và hibiscus tạo cảm giác tươi mới tỉnh táo tức thì, cùng sự mát mẻ thổi bay cái nóng mùa hè oi ả."
+14,639820,Fruit Tea,4324407,Trà Dâu Ổi Hồng,58000,58000,1,0,0,0,"Mùi ổi hồng thơm dịu hòa quyện cùng trà dâu chua ngọt, đính kèm với những lát ổi tươi và muối xí muội đem lại cảm giác tươi mát, thú vị và đầy sảng khoái."
+14,639821,Kombucha,4324408,Kombucha Hoa Cúc Thạch Dừa,75400,75400,1,0,0,0,"Vị trà xanh lên men nồng thơm hoà chung hương hoa cúc thanh mát tạo cảm giác đầy dễ chịu, mát lành, topping dùng kèm là thạch dừa dai giòn, vui miệng."
+14,639821,Kombucha,4324409,Kombucha Nguyên Bản,75400,75400,1,0,0,0,Trà xanh lên men từ con men Scoby
+14,639822,Dessert,4324411,Bánh Croissant Nguyên Vị,45240,45240,1,0,0,0,"Bánh croissant với lớp vỏ nâu vàng bắt mắt, từng lớp bánh xếp chồng lên nhau tạo thành thớ, mềm mại bên trong giòn rụm bên ngoài, là lựa chọn hoàn hảo cho bữa sáng của những người bận rộn."
+14,639822,Dessert,4324412,Bánh Croissant Sô-cô-la,56840,56840,1,0,0,0,"Bánh croissant với lớp vỏ vàng nâu giòn rụm, được bao phủ bởi một lớp socola thơm ngát ngọt ngào nhất định sẽ là lựa chọn hoàn hảo cho mọi tín đồ hảo ngọt."
+14,639822,Dessert,4324413,Bánh Croissant Hạnh Nhân,56840,56840,1,0,0,0,"Bánh croissant với lớp vỏ vàng nâu giòn rụm, kết hợp cùng hạnh nhân thơm lừng tạo thành một món tráng miệng hoàn hảo cho những ai mê mẩn hương vị béo bùi của hạnh nhân."
+14,639823,Snack,4324414,Bánh Lạp Xưởng Đông Phương Hải Phòng (50gr),46400,46400,1,0,0,0,Một phiên bản cookie giòn thơm của bánh trung thu Đông Phương Hải Phòng trứ danh nhất định không thể bỏ lỡ.
+14,639823,Snack,4324415,Bánh Dừa Nướng Đông Phương Hải Phòng (100gr),40600,40600,1,0,0,0,"Từ xứ cảng Hải Phòng, miếng bánh giòn rụm cùng thức vị bùi, béo, ngọt, thơm lừng của dừa gây thương nhớ cho bất kỳ ai thưởng thức. Sẽ hấp dẫn hơn khi thưởng thức cùng một tách trà ấm nóng."
+14,639823,Snack,4324416,Trâu Gác Bếp (50gr),92800,92800,1,0,0,0,"Phong vị Tây Bắc đậm đà thấm đẫm vào từng thớ thịt đỏ hồng với hương mắc khén và hạt dổi đặc trưng, chỉ cần thử một lần là không thể quên."

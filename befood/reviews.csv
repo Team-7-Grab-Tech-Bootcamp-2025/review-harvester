@@ -1,0 +1,9 @@
+restaurant_id,user_name,rating,comment
+1,1,0,Minh Vũ,5,"Ngon xỉu,Đáng đồng tiền,Sạch sẽ,Đóng gói tốt,Khác",17:03 03/11/2021,,,[],"[{'reason': 'Ngon xỉu', 'icon_url': 'https://imgcdn.be.com.vn/food/config/ic_rating_delicious.png'}, {'reason': 'Đáng đồng tiền', 'icon_url': 'https://imgcdn.be.com.vn/food/config/ic_rating_worth_the_price.png'}, {'reason': 'Sạch sẽ', 'icon_url': 'https://imgcdn.be.com.vn/food/config/ic_rating_clean.png'}, {'reason': 'Đóng gói tốt', 'icon_url': 'https://imgcdn.be.com.vn/food/config/ic_rating_good_packing.png'}]"
+4,1315266,0,Tina,5,"cũng được nha, Ngon xỉu, Đáng đồng tiền, Sạch sẽ, Làm món nhanh, Đóng gói tốt, Khác",10:56 28/04/2023,,,[],"[{'reason': 'Ngon xỉu', 'icon_url': 'https://imgcdn.be.com.vn/food/config/ic_rating_delicious.png'}, {'reason': 'Đáng đồng tiền', 'icon_url': 'https://imgcdn.be.com.vn/food/config/ic_rating_worth_the_price.png'}, {'reason': 'Sạch sẽ', 'icon_url': 'https://imgcdn.be.com.vn/food/config/ic_rating_clean.png'}, {'reason': 'Đóng gói tốt', 'icon_url': 'https://imgcdn.be.com.vn/food/config/ic_rating_good_packing.png'}]"
+4,1314314,0,Tina,5,"Đáng đồng tiền, Làm món nhanh",01:04 28/04/2023,,,[],"[{'reason': 'Đáng đồng tiền', 'icon_url': 'https://imgcdn.be.com.vn/food/config/ic_rating_worth_the_price.png'}]"
+4,1315588,0,Nhi,5,,11:37 28/04/2023,,,[],[]
+4,573399,0,Kim Nguyen,5,,23:24 12/10/2022,,,[],[]
+10,7482430,0,Nguyễn Thị Trâm Anh,2,"ko kèm đồ chua hay dưa leo, ăn có cục bị tanh, chả cá bị bột, chiên hơi bị cháy,... mắc, Không hợp khẩu vị, Không đảm bảo vệ sinh",21:40 16/04/2025,,,[],"[{'reason': 'Không hợp khẩu vị', 'icon_url': ''}, {'reason': 'Không đảm bảo vệ sinh', 'icon_url': ''}]"
+10,7331642,0,Nguyễn Quang Thái,1,"không có cơ bản nhất là tương ớt hay tương đen, không có tý rau thêm ăn cho đỡ ngán",11:35 01/04/2025,,,[],[]
+10,4417506,0,Phạm Huỳnh Uyên Như,5,,19:40 24/06/2024,,,[],[]

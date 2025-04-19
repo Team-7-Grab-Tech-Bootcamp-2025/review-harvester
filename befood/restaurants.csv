@@ -1,0 +1,15 @@
+restaurant_id,restaurant_name,display_address
+1,Cơm Cháy Tròn,30,10.796899795532227,106.69464111328125,"87/30 Lê Văn Duyệt, Phường 3, Quận Bình Thạnh",5,1,189,,,20697,0,False,17,Ăn vặt
+2,bánh tráng trộn,30,10.77513,106.7257,"10 Mai Chí Thọ, An Lợi Đông, Quận 2, TP Hồ Chí Minh",0,0,189,,,19910,29000,False,17,Ăn vặt
+3,Tiệm Tạp hoá Nhà Trang,30,10.79196,106.71293,"76 Ngô Tất Tố, Phường 19, Quận Bình Thạnh",0,0,189,,,19159,0,False,8,Bánh Mì/Xôi
+4,Runi,30,10.78554,106.69853,154/3 LCT,5,4,189,,,4,28000,True,8,Bánh Mì/Xôi
+5,Mẹ Cherry - Đồ Ăn Cho Bé,30,10.80427,106.69629,"104 Trần Văn Kỷ, Phường 14, Q.Bình Thạnh",0,0,189,,,19159,0,False,10,Món chay
+6,The Dawn,30,10.8479,106.77067,"58 Hữu Nghị, Phường Bình Thọ, Thành phố Thủ Đức",0,0,189,,,19159,0,False,4,Trà sữa
+7,Trà Sữa Trân Trâu Đường Đen,30,10.78279,106.69376,ILA Nguyễn Đình Chiểu,0,0,189,,,19159,0,False,8,Bánh Mì/Xôi
+8,Anh K'rem - Hai Bà Trưng,30,10.789770126342773,106.68824768066406,"371/17 Hai Bà Trưng, P. Võ Thị Sáu, Quận 3, TP. HCM",0,0,189,,,17274,165000,False,19,Tráng miệng
+9,Y26 Coffee - Hiệp Bình,30,10.8452,106.72828,"192 Hiệp Bình, P. Hiệp Bình Chánh, Thành Phố Thủ Đức, TP. HCM",0,0,189,,,10236,0,False,3,Cà Phê/Trà
+10,Ăn Vặt Chang Ú - Ăn Vặt - Nguyễn Trãi,30,10.759679794311523,106.68489074707031,"385E Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh",2.7,3,189,,,4480,29000,False,17,Ăn vặt
+11,Bún Thịt Nướng Cô Ớt & Lẩu Cá 99K - Trường Sa,30,10.795390129089355,106.69336700439453,"280 Trường Sa, Phường 3, Bình Thạnh, Hồ Chí Minh",0,0,189,,,4445,67000,False,16,Lẩu & Nướng
+12,O Shack - Chicken Wings - Pasteur,30,10.76922,106.70317,"1/10 Pasteur, P. Nguyễn Thái Bình, Quận 1, TP. HCM",0,0,189,,,14530,28500,False,9,Thức ăn nhanh
+13,Uy Bình - Sinh Tố & Nước Ép - Đường D5,30,10.806719779968262,106.71176147460938,"2A Đường D5, P. 25, Bình Thạnh, TP. HCM",0,0,189,,,17987,27000,False,5,Sinh tố/Nước ép/Sữa
+14,Làng Cafe - 198 Nguyễn Thị Minh Khai,30,10.775460243225098,106.69103240966797,"198 Nguyễn Thị Minh Khai, P. Võ Thị Sáu, Quận 3, TP. HCM",0,0,189,,,10397,57420,False,3,Cà Phê/Trà

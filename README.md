@@ -48,7 +48,7 @@ You need to access `shopeefood_crawl.py` or `befood_crawl.py` file, in User_Agen
 ``` 
 python befood_crawl.py
 ```
-#### shopeefood (Shopee)
+#### shopeefood (Foody)
 ```
 python shopeefood_crawl.py
 ```

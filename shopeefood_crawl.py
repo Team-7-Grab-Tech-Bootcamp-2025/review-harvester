@@ -231,7 +231,7 @@ def run_pipeline_by_id_range(start_id=1, end_id=10):
     for rid in tqdm(range(start_id, end_id + 1), desc="Scanning Foody ID"):
         try:
             process_restaurant_by_id(rid)
-            time.sleep(0.5)
+            time.sleep(0.3)
         except Exception as e:
             tqdm.write(f"Restaurant ID {rid} lỗi: {e}")
 

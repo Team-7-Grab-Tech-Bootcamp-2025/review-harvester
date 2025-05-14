@@ -57,3 +57,15 @@ python shopeefood_crawl.py
 ## Author
 Developed by **Hoa Dam Nguyen Quynh** – an AI Engineer participating in the Grab's BootCamp program. 
 If you want to contribute, suggest or collaborate, please contact me via email `damnguyenquynhhoa@gmail.com`.
+
+```
+├── data/     
+    ├── white
+        ├── image_1.jpg
+        ├── image_2.jpg
+        ├── ...
+    ├── black
+    ├── gray
+    ├── ...
+
+```
